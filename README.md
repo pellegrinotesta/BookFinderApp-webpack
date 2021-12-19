@@ -1,4 +1,4 @@
-# BookFinderAppe-webpack
+# BookFinderApp
 Progetto Javascript Advanced
 
 # Tabella dei contenuti
