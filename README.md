@@ -29,6 +29,7 @@ Per visualizzare il progetto:
 - Copia la repository sul tuo desktop
 - Apri index.html nel browser
 - Scrivi la categoria del libro che cerchi e premi invio.
+- https://searchyourbook.netlify.app
 
 # Informazioni di contatto
 Pellegrino Testa rinotesta@live.it
